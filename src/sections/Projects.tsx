@@ -28,7 +28,7 @@ const portfolioProjects = [
       { title: "Implemented Drag-and-Drop Functionality for Tasks" },
       { title: "Optimized Backend Reduce Latency by 40%" },
     ],
-    link: "https://youtu.be/7hi5zwO75yc",
+    link: "",
     image: lightSaasLandingPage,
   },
   {
@@ -40,7 +40,7 @@ const portfolioProjects = [
       { title: "Improved site speed by 50%" },
       { title: "Implemented Authentication and Role-Based Access Control" },
     ],
-    link: "https://youtu.be/Z7I5uSRHMHg",
+    link: "",
     image: aiStartupLandingPage,
   },
 ];
